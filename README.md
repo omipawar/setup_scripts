@@ -26,6 +26,7 @@ chmod +x install_aws_cli_and_configure.sh
 ```bash
 curl -O https://raw.githubusercontent.com/omipawar/setup_scripts/refs/heads/main/install_java_for_jenkins.sh
 chmod +x install_java_for_jenkins.sh
+./install_java_for_jenkins.sh
 ```
 ### OR
 ```bash
@@ -36,6 +37,7 @@ chmod +x install_java_for_jenkins.sh
 ```bash
 curl -O https://raw.githubusercontent.com/omipawar/setup_scripts/refs/heads/main/iinstall_jenkins.sh
 chmod +x iinstall_jenkins.sh
+./iinstall_jenkins.sh
 ```
 ### OR
 ```bash
