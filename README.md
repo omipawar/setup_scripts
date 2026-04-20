@@ -30,7 +30,7 @@ chmod +x install_java_for_jenkins.sh
 ```
 ### OR
 ```bash
-### curl -s https://raw.githubusercontent.com/omipawar/setup_scripts/refs/heads/main/install_java_for_jenkins.sh | bash
+curl -s https://raw.githubusercontent.com/omipawar/setup_scripts/refs/heads/main/install_java_for_jenkins.sh | bash
 ```
 
 ## Jenkins Installation
@@ -41,5 +41,5 @@ chmod +x iinstall_jenkins.sh
 ```
 ### OR
 ```bash
-### curl -s https://raw.githubusercontent.com/omipawar/setup_scripts/refs/heads/main/iinstall_jenkins.sh | bash
+curl -s https://raw.githubusercontent.com/omipawar/setup_scripts/refs/heads/main/iinstall_jenkins.sh | bash
 ```
